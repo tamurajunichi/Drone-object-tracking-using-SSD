@@ -1,0 +1,2 @@
+import cv2
+import time cascode_path "../lib/lbpcascade"
